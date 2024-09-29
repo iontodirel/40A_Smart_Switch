@@ -15,5 +15,5 @@ Test board capable of handling switching of 40A (13.8V) without cooling. Can han
 
 Uses dual current sense resistors in a 5930 package, sharing the current load, for improved power dissipation. Uses B6A-PCB-45 wire to board SMD lugs from Lugs Direct. Uses 5102TR SMD jumpers, from Keystone Electronics, for improved PCB current balancing across the FETs.
 
-![fet_switch17](https://github.com/user-attachments/assets/ecd304c1-e2a4-4a5c-beb6-9b7ee215ab2f)
-![fet_switch17_bottom](https://github.com/user-attachments/assets/50ddd151-4d8e-4170-b421-f5451a22c0e1)
+![fet_switch17](https://github.com/user-attachments/assets/5bf5bd09-ca4f-4379-95e4-236fd280b984)
+![fet_switch17_bottom](https://github.com/user-attachments/assets/19d64b91-30b4-4676-b2c8-33444f57a068)
