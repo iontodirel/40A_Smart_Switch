@@ -11,7 +11,7 @@ This board is used to drive an array of N-channel MOSFETs as a switch. The curre
 
 ## N-FET Switch Analog board
 
-Test board capable of handling siwtching of 40A (13.8V) without cooling. Can handle 70A with passive cooling. Uses 6 x Infineon IQDH35N03LM5CG FETs, in back to back source to source configuration.
+Test board capable of handling switching of 40A (13.8V) without cooling. Can handle continuous 70A with passive cooling. Uses 6 x Infineon IQDH35N03LM5CG FETs, in back to back source to source configuration.
 
 ![fet_switch17](https://github.com/user-attachments/assets/62145458-0b04-47f9-b261-2152dd26789c)
 ![fet_switch17_bottom](https://github.com/user-attachments/assets/101e5601-3095-4ea2-8c77-63f8e06ae2bb)
