@@ -17,3 +17,8 @@ Uses dual current sense resistors in a 5930 package, sharing the current load, f
 
 ![fet_switch17](https://github.com/user-attachments/assets/5bf5bd09-ca4f-4379-95e4-236fd280b984)
 ![fet_switch17_bottom](https://github.com/user-attachments/assets/19d64b91-30b4-4676-b2c8-33444f57a068)
+
+### Test boards
+
+![IMG_9528](https://github.com/user-attachments/assets/9ae8ace7-9aad-4869-ad04-fea8fb23a572)
+![IMG_9526](https://github.com/user-attachments/assets/639e5a0b-2075-410a-8a4a-e3b33c3bca34)
