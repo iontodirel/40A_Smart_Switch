@@ -1,7 +1,7 @@
 # 40A Smart Switch Analog Subsystem
 The analog subsystem of a 40A smart analog switch. Contains a DAC, an ADC with a 2-channel mux and ADC driver, an isolated DC-DC, isolated FET driver, isolated voltage amp, current sense amp, a current sense amp with digitally adjustable range (by DAC).
 
-This design is meant to power a smart MCU-controlled multi-channel power path controlled. Designed to route power from a 12V system, to a battery charger, to power a computer system, and a radio, as a N:M:O switch matrix, if desired.
+This design is meant to power a smart MCU-controlled multi-channel power path controller. Designed to route power from a 12V system, to a battery charger, to power a computer system, and a radio, as a N:M:O switch matrix, if desired, offering absolute flexibility and scalability due to the isolated architecture.
 
 This is a demo board, optimized for prototyping.
 
