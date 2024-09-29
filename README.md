@@ -8,3 +8,10 @@ This is a demo board, optimized for prototyping.
 ![pcb_top](https://github.com/user-attachments/assets/ae502a78-fedb-4412-9dcf-aa7905acede8)
 
 This board is used to drive an array of N-channel MOSFETs as a switch. The current sense amp and the ADC and used for sampling and digitizing the current. The isolated amp can be use to measure voltage. The board is fully isolated, and can be used in a multichannel switch configuration for any smart power path control.
+
+## N-FET Switch Analog board
+
+Test board capable of handling siwtching of 40A (13.8V) without cooling. Can handle 70A with passive cooling. Uses 6 x Infineon IQDH35N03LM5CG FETs, in back to back source to source configuration.
+
+![fet_switch17](https://github.com/user-attachments/assets/fac3ba5e-bcad-409e-87ab-692543799003)
+![fet_switch17_bottom](https://github.com/user-attachments/assets/c7cc61d3-4a12-4888-9e7f-78483f938cbb)
